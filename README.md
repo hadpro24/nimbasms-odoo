@@ -197,9 +197,7 @@ Webhooks enable real-time delivery status updates from Nimba SMS to Odoo.
 
 Always use international E.164 format:
 - ✅ **Correct**: `+224620000000` (Guinea)
-- ✅ **Correct**: `+254712345678` (Kenya)
-- ❌ **Wrong**: `620000000` (missing country code)
-- ❌ **Wrong**: `00224620000000` (use + instead of 00)
+- ✅ **Correct**: `624000000` (Guinea)
 
 The module auto-formats numbers when possible, but explicit international format is recommended.
 
@@ -239,6 +237,6 @@ LGPL-3 (same as Odoo)
 
 ---
 
-**Version**: 19.0.2.0.0
+**Version**: 1.0.0
 **Compatible with**: Odoo 19.0
-**Last Updated**: November 2024
+**Last Updated**: November 2025
