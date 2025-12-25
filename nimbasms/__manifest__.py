@@ -53,7 +53,7 @@
         'views/res_config_settings_views.xml',
     ],
     'images': [
-        'images/main_screenshot.png',
+        'images/main_screenshot.jpg',
     ],
     'installable': True,
     'application': False,

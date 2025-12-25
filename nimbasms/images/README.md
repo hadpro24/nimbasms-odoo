@@ -4,7 +4,7 @@ This directory should contain screenshots and images for the Odoo Apps Store.
 
 ## Required Files
 
-1. **main_screenshot.png** - Main screenshot/cover image (thumbnail)
+1. **main_screenshot.jpg** - Main screenshot/cover image (thumbnail)
    - Displayed on the app store listing
    - Recommended size: 1280x720 or similar
    - Format: PNG, GIF, or JPEG
@@ -19,7 +19,7 @@ This directory should contain screenshots and images for the Odoo Apps Store.
 The `images` key in `__manifest__.py` references these files:
 ```python
 'images': [
-    'images/main_screenshot.png',
+    'images/main_screenshot.jpg',
 ],
 ```
 
